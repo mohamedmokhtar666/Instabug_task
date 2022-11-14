@@ -1,0 +1,7 @@
+automated test cases for website nopcommerce :
+1- register function
+2-logout function
+3-login function
+4-search function
+5- add to cart funation.
+6-naviagte to other url.
